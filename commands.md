@@ -5,6 +5,7 @@
 * ``git init``: To initialise the repo
 * ``git clone git@github.com:<your-account>/<repo-name>.git``: If cloning from an existing repository
 * ``git remote add origin git@github.com:<your-account>/<repo-name>.git``: To add your local repository to GitHub
+* ``git branch -M main``: Renames default master branch as main
 
 ### Tracking changes
 
