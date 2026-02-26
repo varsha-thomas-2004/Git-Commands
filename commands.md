@@ -38,6 +38,7 @@
     * ``git merge <branch-name>``
     * ``git push origin main``\
 *--Close PR--*
+* ``git remote -v``: List remote repositories
 
 ### Pull Requests (from a fork, but you need to work on it before merging)
 
